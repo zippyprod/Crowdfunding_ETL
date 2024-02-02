@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-For the ETL mini project, working with partners (Smita Shah and Jeff Morgan) to practice building an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform the data. We have transformed the data, we have also created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we have uploaded the CSV file data into a Postgres database.
+For the ETL mini project, working with partners (Smita Shah and Jeff Morgan) to practice building an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform the data. We have transformed the data and have also created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we have uploaded the CSV file data into a Postgres database.
 
 # Instructions
 The instructions for this mini project are divided into the following subsections:
